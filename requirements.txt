@@ -1,0 +1,4 @@
+coqui-tts[codec]
+transformers<5
+torch
+torchaudio
